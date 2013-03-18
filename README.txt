@@ -1,3 +1,8 @@
+example_mex
+===========
+Example code showing how to link matlab to C++ code through a C++ API on Mac OSX
+
+
 to compile cpp api:
 
 gcc -c cpp_api.cpp
